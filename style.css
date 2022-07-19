@@ -1,0 +1,188 @@
+element.style {
+}
+.intelligent-starter-templates-onboarding.appearance_page_starter-templates #wpbody-content {
+    padding: 0;
+}
+@media only screen and (max-width: 767px)
+.appearance_page_starter-templates #wpbody-content {
+    padding-top: 0;
+}
+@media screen and (max-width: 480px)
+#wpbody-content {
+    padding-bottom: 30px;
+}
+@media screen and (max-width: 782px)
+#wpbody-content {
+    padding-bottom: 100px;
+}
+#wpbody-content {
+    padding-bottom: 65px;
+    float: left;
+    width: 100%;
+    overflow: visible;
+}
+body * {
+    box-sizing: border-box;
+}
+@media screen and (max-width: 782px)
+body * {
+    -webkit-tap-highlight-color: transparent!important;
+}
+a, div {
+    outline: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+#wpwrap {
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+@media screen and (max-width: 1366px)
+.step-customizer {
+    --sidebar-width: 25%;
+}
+<style>
+body {
+    --stc-color-accent: #2563EB;
+    --stc-color-accent-hover: #1D4ED8;
+    --stc-color-heading: #1F2937;
+    --stc-color-body: #4B5563;
+    --stc-color-light-gray: #E5E7EB;
+    --stc-color-placeholder: #6B7280;
+    --stc-color-white: #FFFFFF;
+    --stc-color-favorite: #E91E63;
+    --stc-background-secondary: #F7F7F9;
+    --stc-background-primary: #FFFFFF;
+    --stc-background-light: #F9FAFB;
+    --stc-font-size-xxl: 30px;
+    --stc-font-size-xl: 24px;
+    --stc-font-size-l: 20px;
+    --stc-font-size-m: 18px;
+    --stc-font-size-s: 16px;
+    --stc-font-size-xs: 14px;
+    --stc-font-size-xxs: 11px;
+    --stc-font-weight-extra-bold: 600;
+    --stc-font-weight-bold: 500;
+    --stc-font-weight-normal: 400;
+    --stc-font-line-height-xl: 36px;
+    --stc-font-line-height-l: 32px;
+    --stc-font-line-height-m: 28px;
+    --stc-font-line-height-s: 24px;
+    --stc-font-line-height-xs: 20px;
+    --stc-border-color: #D1D5DB;
+    --stc-border-radius-5: 5px;
+    --stc-border-radius-4: 4px;
+    --stc-border-radius-3: 3px;
+    --stc-border-radius-2: 2px;
+    --stc-border-radius-1: 1px;
+}
+body {
+    --st-color-accent: #2563EB;
+    --st-color-accent-hover: #1D4ED8;
+    --st-color-heading: #1F2937;
+    --st-color-body: #4B5563;
+    --st-color-light-gray: #E5E7EB;
+    --st-color-placeholder: #6B7280;
+    --st-color-white: #FFFFFF;
+    --st-color-favorite: #E91E63;
+    --st-background-secondary: #F7F7F9;
+    --st-background-primary: #FFFFFF;
+    --st-background-light: #F9FAFB;
+    --st-font-size-xxl: 30px;
+    --st-font-size-xl: 24px;
+    --st-font-size-l: 20px;
+    --st-font-size-m: 18px;
+    --st-font-size-s: 16px;
+    --st-font-size-xs: 14px;
+    --st-font-weight-extra-bold: 600;
+    --st-font-weight-bold: 500;
+    --st-font-weight-normal: 400;
+    --st-font-line-height-xl: 36px;
+    --st-font-line-height-l: 32px;
+    --st-font-line-height-m: 28px;
+    --st-font-line-height-s: 24px;
+    --st-font-line-height-xs: 20px;
+    --st-border-color: #D1D5DB;
+    --st-border-radius-4: 4px;
+    --st-border-radius-3: 3px;
+    --st-border-radius-2: 2px;
+    --st-border-radius-1: 1px;
+}
+body {
+    --st-color-accent: #2563EB;
+    --st-color-accent-hover: #1D4ED8;
+    --st-color-heading: #1F2937;
+    --st-color-body: #4B5563;
+    --st-color-light-gray: #E5E7EB;
+    --st-color-placeholder: #6B7280;
+    --st-color-white: #FFFFFF;
+    --st-color-favorite: #E91E63;
+    --st-background-secondary: #F7F7F9;
+    --st-background-primary: #FFFFFF;
+    --st-background-light: #F9FAFB;
+    --st-font-size-xxl: 30px;
+    --st-font-size-xl: 24px;
+    --st-font-size-l: 20px;
+    --st-font-size-m: 18px;
+    --st-font-size-s: 16px;
+    --st-font-size-xs: 14px;
+    --st-font-weight-extra-bold: 600;
+    --st-font-weight-bold: 500;
+    --st-font-weight-normal: 400;
+    --st-font-line-height-xl: 36px;
+    --st-font-line-height-l: 32px;
+    --st-font-line-height-m: 28px;
+    --st-font-line-height-s: 24px;
+    --st-font-line-height-xs: 20px;
+    --st-border-color: #D1D5DB;
+    --st-border-radius-4: 4px;
+    --st-border-radius-3: 3px;
+    --st-border-radius-2: 2px;
+    --st-border-radius-1: 1px;
+}
+body {
+    background: #f0f0f1;
+    color: #3c434a;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    min-width: 600px;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+@media screen and (max-width: 782px)
+html {
+    --wp-admin--admin-bar--height: 46px;
+}
+html {
+    --wp-admin--admin-bar--height: 32px;
+    scroll-padding-top: var(--wp-admin--admin-bar--height);
+}
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #d5d6d7;
+    border-radius: 0px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 0px;
+}
